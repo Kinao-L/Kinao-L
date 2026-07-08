@@ -1,11 +1,12 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+![Header](https://raw.githubusercontent.com/Kinao-L/Kinao-L/main/header.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 My name is Yuxuan Luo and I'm a system/AI engineer. I'm from China, living in Kyoto/Japan. You can find me by my email.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kinao-L.Kinao-L)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C991%20hrs%2036%20mins-blue)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
