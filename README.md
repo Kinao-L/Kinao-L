@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />![visitors](https://visitor-badge.glitch.me/badge?page_id=Kinao-L&left_color=green&right_color=red)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />![visitors](https://visitor-badge.glitch.me/badge?Kinao-L=page.id&left_color=green&right_color=red)
 
 My name is Yuxuan Luo and I'm a system/AI engineer. I'm from China, living in Kyoto/Japan. You can find me by my email.
 
