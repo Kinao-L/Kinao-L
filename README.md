@@ -51,9 +51,9 @@ waiting to add...
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/Kinao-L
+[2]: https://github.com/Kinao-L
+[3]: https://www.linkedin.com/in/Yuxuan_Luo/
 
 
 <!-- Resources -->
