@@ -15,7 +15,7 @@ My name is Yuxuan Luo and I'm a system/AI engineer. I'm from China, living in Ky
 
 ## &#x270d; Blog & Writing
 
-waiting to add...
+waiting to add... 2026/7/19
 
 <!-- links to social media icons -->
 
